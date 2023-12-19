@@ -12,6 +12,7 @@ I'm a Flutter developer passionate about building amazing mobile applications.
 - Dart
 - Firebase
 - sqflite
+- Hive
 - Git
 
 
