@@ -10,6 +10,9 @@ I'm a Flutter developer passionate about building amazing mobile applications.
 ### Skills and Tools
 - Flutter
 - Dart
+- Getx
+- Provider
+- Rest Api
 - Firebase
 - sqflite
 - Hive
